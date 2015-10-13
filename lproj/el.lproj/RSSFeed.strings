@@ -1,31 +1,31 @@
 /* NSButton (Cancel) : <title:Cancel> (oid:54) */
-"Cancel" = "Cancel";
+"Cancel" = "Άκυρο";
 
 /* NSTextField (Create a new subscription ) : <title:Create a new subscription
 > (oid:64) */
-"Create a new subscription\n" = "Create a new subscription\n";
+"Create a new subscription\n" = "Νέα συνδρομή\n";
 
 /* NSTextField (Edit subscription) : <title:Edit subscription> (oid:67) */
-"Edit subscription" = "Edit subscription";
+"Edit subscription" = "Επεξεργασία συνδρομής";
 
 /* NSTextField (Enter the link for the news feed below. Or choose from the Source list to enter a shortcut name for the news feed provided by the source.) : <title:Enter the link for the news feed below. Or choose from the Source list to enter a shortcut name for the news feed provided by the source.> (oid:65) */
 "Enter the link for the news feed below. Or choose from the Source list to enter a shortcut name for the news feed provided by the source." = "Enter the link for the news feed below. Or choose from the Source list to enter a shortcut name for the news feed provided by the source.";
 
 /* NSMenu : <title:OtherViews> (oid:44) */
-"OtherViews" = "OtherViews";
+"OtherViews" = "Άλλες Προβολές";
 
 /* NSPanel (RSS Feed) : <title:RSS Feed> (oid:49) */
 "RSS Feed" = "RSS Feed";
 
 /* NSButton (Save) : <title:Save> (oid:53) */
-"Save" = "Save";
+"Save" = "Αποθήκευση";
 
 /* NSTextField (Source: ) : <title:Source:
 > (oid:40) */
-"Source:\n" = "Source:\n";
+"Source:\n" = "Πηγή:\n";
 
 /* NSButton (Subscribe) : <title:Subscribe> (oid:10) */
-"Subscribe" = "Subscribe";
+"Subscribe" = "Συνδρομή";
 
 /* NSMenuItem : <title:URL> (oid:45) */
 "URL" = "URL";
