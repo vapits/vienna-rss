@@ -8,39 +8,39 @@
 "-" = "-";
 
 /* NSButton (Cancel) : <title:Cancel> (oid:10) */
-"Cancel" = "Cancel";
+"Cancel" = "Άκυρο";
 
 /* NSMenuItem : <title:Field names go here> (oid:33) */
-"Field names go here" = "Field names go here";
+"Field names go here" = "Τα ονόματα πεδίων μπαίνουν εδώ";
 
 /* NSMenuItem : <title:Item1> (oid:88) */
-"Item1" = "Item1";
+"Item1" = "Πεδίο1";
 
 /* NSMenuItem : <title:Item2> (oid:90) */
-"Item2" = "Item2";
+"Item2" = "Πεδίο2";
 
 /* NSMenuItem : <title:Item3> (oid:89) */
-"Item3" = "Item3";
+"Item3" = "Πεδίο3";
 
 /* NSMenuItem : <title:Nothing> (oid:82) */
-"Nothing" = "Nothing";
+"Nothing" = "Τίποτα";
 
 /* NSMenuItem : <title:Operators go here> (oid:56) */
-"Operators go here" = "Operators go here";
+"Operators go here" = "Operators εδώ";
 
 /* NSMenu : <title:OtherViews> (oid:87) */
-"OtherViews" = "OtherViews";
+"OtherViews" = "Άλλες προβολές";
 
 /* NSButton (Save) : <title:Save> (oid:9) */
-"Save" = "Save";
+"Save" = "Αποθήκευση";
 
 /* NSTextField (Show all articles that match) : <title:Show all articles that match> (oid:58) */
-"Show all articles that match" = "Show all articles that match";
+"Show all articles that match" = "Δείξε όλα τα άρθρα που ταιριάζουν";
 
 /* NSTextField (Smart folder name: ) : <title:Smart folder name:
 > (oid:7) */
-"Smart folder name:\n" = "Smart folder name:\n";
+"Smart folder name:\n" = "Όνομα Smart φακέλου:\n";
 
 /* NSTextField (of the following conditions:) : <title:of the following conditions:> (oid:84) */
-"of the following conditions:" = "of the following conditions:";
+"of the following conditions:" = "των παρακάτω συνθηκών:";
 
